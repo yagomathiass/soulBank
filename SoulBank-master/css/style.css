@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+header{
+    background-color: #f2f2f2;
+
+}
+
+#cadastro{
+    background-color: #010326;
+    border-radius: 10px;
+}
+
+#cadastro a{
+    font-family: 'Roboto', sans-serif;
+}
